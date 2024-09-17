@@ -249,7 +249,9 @@ Figure PP - Data Monthly Estimate around $90.00 USD Dollars by Walter Andres Paz
 <H1>Project Number Two about Human Resources Office at University Canada West (UCW) for Health and Organizational Safety (HOS).</H1>
 <H3>The project was conducted in a group at University Canada West (UCW).</H3>
 
-First step was to create an Amazon Web Service's (AWS) planning for the data's management of the considerations for University Canada West's Department on Human Resources (HRO) for the Health and Organizational Safety (HOS). However, 
+First step was to create an Amazon Web Service's (AWS) planning for the data's management of the considerations for University Canada West's Department on Human Resources (HRO) for the Health and Organizational Safety (HOS). However, the construction of a database within the services offered by the well-known platform.
+
+
 
 
 
