@@ -238,9 +238,19 @@ DAP Estimated Cost (Teamwork)
 Please share the estimated cost of the dataset preparation phase.: You need to use the AWS pricing calculator to estimate the cost of using AWS services for this platform.
 
 
+
+
  ![Picture 43 Project COV](https://github.com/user-attachments/assets/145cebdf-a8e7-4d8f-8bd0-c4d28b33c517)
  
 Figure PP - Data Monthly Estimate around $90.00 USD Dollars by Walter Andres Paz Callizo.
+
+
+
+<H1>Project Number Two about Human Resources Office at University Canada West (UCW) for Health and Organizational Safety (HOS).</H1>
+<H3>The project was conducted in a group at University Canada West (UCW).</H3>
+
+
+
 
 
 
