@@ -302,8 +302,34 @@ Amazon S3 due to the upload of datasets and cleaning specially for the Incident 
 
 ![image](https://github.com/user-attachments/assets/86f723f9-f545-440a-af77-99c7cc96119c)
 
+![image](https://github.com/user-attachments/assets/2c843fae-56b0-41cc-997c-a67563d3b88b)
+
+![image](https://github.com/user-attachments/assets/4bb2c1c0-a4ab-4025-9b35-ff4c18d4bb86)
+
+ETL Design for Human Resources Office and Health and Organizational Safety (HOS)
+
+![image](https://github.com/user-attachments/assets/816a373d-85bd-4cc7-9710-14e40576ae84)
+
+Exported area is shown inside of the Curated Zone as a processed data from an ETL Pipeline.
+
+![image](https://github.com/user-attachments/assets/2f1c41c5-b126-4eaa-b007-3f15e67a50ce)
+
+Dashboards generated inside of AWS is the Crowd Trail and Cloud Watch Services from AWS through Gadgets and Alarm Monitoring.
+
+![image](https://github.com/user-attachments/assets/4322fa0f-758d-4542-80a8-d6e9ea02037b)
+
+![image](https://github.com/user-attachments/assets/187fc5fe-ec51-44f4-bc00-b3c5207c5f6e)
+
+![image](https://github.com/user-attachments/assets/cdf00dd9-255a-46ea-a0a9-6e9b6037ab51)
+
+Sage Maker helps us manage domains while IAM shares whom to use or view content vs the KEY Management Service for further encryption of data files and proper usage of them. 
+
+![image](https://github.com/user-attachments/assets/3dee40fb-b59a-4f89-ade8-2df62313af38)
+
+![image](https://github.com/user-attachments/assets/cb49a666-c74a-447c-9763-f4bb6751c255)
 
 
+![image](https://github.com/user-attachments/assets/73641b6f-17ea-4b9d-a4cb-cf42ac2fc6ab)
 
 
 
