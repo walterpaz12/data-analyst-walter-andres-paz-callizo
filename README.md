@@ -256,6 +256,43 @@ First step was to create an Amazon Web Service's (AWS) planning for the data's m
 
 Generation of analysis for the Web Servers and the complex computers inside and outside of University Canada West's (UCW's) building inside of Vancouver, British Columbia, Canada where it is essential to stand up for the needs of a processor acting as abrain for the virtual enviornment and computer. Also, the importance behind the VPC, Network's Management and the Application's Development for the ideal job of conisdering any needed changes inside of the institution from digital and non-digital servers as a Data Server for the Cloud Computing process. 
 
+![image](https://github.com/user-attachments/assets/84aa7a83-b9ff-43ea-a70f-9194620404a3)
+
+Initial console inside of Amazon Web Services.
+
+![image](https://github.com/user-attachments/assets/f59d107d-625c-47da-8745-acbc21c3d756)
+
+Draw.IO was used during the classes for the implementation of an analysis and description of operations taken into consideration.
+
+![image](https://github.com/user-attachments/assets/66c20ea1-3675-4d6b-9225-75eb5f4ba3e0)
+
+Bucket Management (S3).
+
+![image](https://github.com/user-attachments/assets/2efcfa61-c054-493d-90d7-1ce1369a005c)
+
+Draw.IO.
+
+![image](https://github.com/user-attachments/assets/d4646436-ad93-44df-876d-cc3901327302)
+
+Landing Zone's Generation for Folders in 2023 and 2024.
+
+![image](https://github.com/user-attachments/assets/adb6e1ea-bc91-417c-964f-b0953768bfb0)
+
+Draw.IO for the Opening of S3.
+
+![image](https://github.com/user-attachments/assets/91afbdf6-0f77-4b50-a56a-6a98f6b71df1)
+
+Registrar's Office Operation's Application inside of Data Brew and Glue.
+
+
+
+
+
+
+
+
+
+
 
 
 
