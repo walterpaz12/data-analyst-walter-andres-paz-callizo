@@ -284,6 +284,30 @@ Draw.IO for the Opening of S3.
 
 Registrar's Office Operation's Application inside of Data Brew and Glue.
 
+![image](https://github.com/user-attachments/assets/0f566d53-f305-441d-b290-dce430396700)
+
+Athena SQL delivery for the table management.
+
+![image](https://github.com/user-attachments/assets/89fb6628-3bd0-46c7-8b5a-cecd38911398)
+
+![image](https://github.com/user-attachments/assets/94cea190-8f08-44df-a9e2-39c5e6755644)
+
+Implementation of the ETL Pipeline or Extraction, Transforming and Loading of the Data inside of Glue and Databrew.
+
+![image](https://github.com/user-attachments/assets/1e1f589e-86f5-4052-9883-0aad69cbf4c9)
+
+Amazon S3 due to the upload of datasets and cleaning specially for the Incident Rates and future management of Data Protection and Quality.
+
+![image](https://github.com/user-attachments/assets/dbd6fbda-9b42-4ba7-856f-3c610ae48ab7)
+
+![image](https://github.com/user-attachments/assets/86f723f9-f545-440a-af77-99c7cc96119c)
+
+
+
+
+
+
+
 
 
 
