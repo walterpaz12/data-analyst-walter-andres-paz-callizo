@@ -252,6 +252,9 @@ Figure PP - Data Monthly Estimate around $90.00 USD Dollars by Walter Andres Paz
 First step was to create an Amazon Web Service's (AWS) planning for the data's management of the considerations for University Canada West's Department on Human Resources (HRO) for the Health and Organizational Safety (HOS). However, the construction of a database within the services offered by the well-known platform.
 
 
+![image](https://github.com/user-attachments/assets/04759c21-f310-4692-8263-b84566050191)
+
+Generation of analysis for the Web Servers and the complex computers inside and outside of University Canada West's (UCW's) building inside of Vancouver, British Columbia, Canada where it is essential to stand up for the needs of a processor acting as abrain for the virtual enviornment and computer. Also, the importance behind the VPC, Network's Management and the Application's Development for the ideal job of conisdering any needed changes inside of the institution from digital and non-digital servers as a Data Server for the Cloud Computing process. 
 
 
 
