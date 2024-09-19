@@ -334,17 +334,17 @@ Sage Maker helps us manage domains while IAM shares whom to use or view content 
 <H1>Project Number Three about the Wrecking of the TITANIC.</H1>
 <H3>The project was conducted individually at University Canada West (UCW).</H3>
 
-Executive Summary
+<h3>Executive Summary</h3>
 
     This analysis focuses on exploring the survival patterns from the Titanic disaster by comparing survival rates across key demographic and categorical features such as gender, passenger class, and age group. The study employs statistical analysis and data visualizations to highlight the factors that significantly influenced survival chances. Some of the foreseen information from the investigation is the fact that most Survivors are women due to humanity and its preservation before focusing on male survivors. Nonetheless, there was a rise in some of the travelers over 60 years old due to the price of being in the World's most luxury ship in the start of the 1900's for human history.
  
 
-I.	Introduction
+<h3>I.	Introduction</h3>
 
    One of the most famous sea disasters brought about the RMS Titanic tragedy in 1912. Since a large group of passengers was onboard, this thing stood as a matter of great public debate due to the rare opportunity to see human behavior in life-threatening situations. The project investigated what factors affect passenger survival rates in a dataset that contained passengers' demographics and other considerations for the forensic investigations on any future shipments and the wreckage of many commercial vessels in the next one hundred years. 
 
 
-II. Instructions
+<h3>II. Instructions</h3>
 Project Description: Exploratory Data Analysis (EDA) on Titanic Dataset
 Project Title: Surviving the Titanic: An Exploratory Data Analysis
 Objective: The primary goal of this project is to perform an exploratory data analysis (EDA) on the Titanic dataset to uncover patterns, trends, and insights related to passenger survival. By analyzing various features such as age, gender, class, and fare, we aim to understand the factors that influenced the likelihood of survival during the Titanic disaster.
@@ -389,7 +389,7 @@ Deliverables:
 •	A presentation summarizing key insights and visualizations for stakeholders or peers.
 This EDA project not only demonstrates your analytical and programming skills but also highlights your ability to derive meaningful insights from data, making it a valuable addition to your data analyst portfolio.
 
-III.Procedure and Analysis
+<h3>III.Procedure and Analysis</h3>
 1-	Data Collection and Preparation: 
 
 
@@ -427,7 +427,8 @@ Figure F - Data's Downloading
 
  
 Figure G - New Data Cleansed is being Implemented!
-2-	Descriptive Statistics:
+
+<h3>2-	Descriptive Statistics:</h3>
 
 ![image](https://github.com/user-attachments/assets/5ade541f-3003-4603-93fa-152185655ec7)
 
@@ -436,7 +437,7 @@ Figure H - Statistical work showcases a deep impact in the first class over seco
 
 
 
-3-	Data Visualization:
+<h3>3-	Data Visualization:</h3>
 
 ![image](https://github.com/user-attachments/assets/10f1f29f-25e1-47c3-adf4-f789a1b77112)
 
@@ -483,7 +484,7 @@ Figure P - Among people saved Children, Teenagers and Young Adults were prioriti
 
 
 
-5-	Insights and Findings:
+<h3>5-	Insights and Findings:</h3>
     Once the Ship of the Titanic crashed against the iceberg which has some few survivors mainly in First Class as they were the first ones to leave the debris among a whole number of Children with 50 percentage of them saved, and other categories going from Teenagers to Young Adults, Adults and just a few percentages in Senior Adults. However, most Survivors are women due to humanity and its preservation before focusing on male survivor’s. Nonetheless, there was a rise in some of the travelers over 60 years old due to the price of being in the World's most luxury ship in the start of the 1900's for human history.
 
 
@@ -494,7 +495,7 @@ Figure P - Among people saved Children, Teenagers and Young Adults were prioriti
 
 
 
-IV. Conclusion
+<h3>IV. Conclusion</h3>
   The intriguing survival patterns among Titanic passengers fell into three categories: class, gender, and age group. The survival rate of female passengers within a single class was higher than that of male passengers. First class passengers had a significantly higher chance of being saved than their second- or third-class counterparts due to an economic turmoil inside of the boat where there was clear priority for survival. Age was also a factor, with younger persons (including children) having better opportunities. These findings provide historical analysis on how various demographic groups impacted the course of the catastrophe seen in the sinking of the Titanic (Ici Explora, 2022). 
 
 
@@ -506,7 +507,7 @@ IV. Conclusion
 
 
 
-References
+<h3>References</h3>
 
    Gupta, S. (2023). Titanic Dataset. https://www.kaggle.com/datasets/shubhamgupta012/titanic-dataset 
   Ici Explora (2022). Sinking of the Titanic: Distinguishing Myths from Reality. https://ici.exploratv.ca/blogue/titanic-naufrage-110-ans-mythe-realite/ 
