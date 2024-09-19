@@ -391,24 +391,46 @@ This EDA project not only demonstrates your analytical and programming skills bu
 
 III.Procedure and Analysis
 1-	Data Collection and Preparation: 
- 
+
+
+ ![image](https://github.com/user-attachments/assets/f4055fcb-bc12-4971-a425-82c4eb0dfd5e)
+
 Figure A - Download the first Exploration on the Titanic's Dataset (TD).
+
+![image](https://github.com/user-attachments/assets/d2af4acc-5aeb-4915-9cd9-49527d443b28)
+
  
 Figure B - Titanic Dataset from Kaggle.
 
+![image](https://github.com/user-attachments/assets/f35253cf-fd1d-4a52-8b30-e7616f065a12)
 
  
 Figure C - Upload of dataset in CSV form for better operational management.
+
+![image](https://github.com/user-attachments/assets/b39f4ee0-9e47-484c-a293-183169919218)
+
  
 Figure D - Cleaning of the Dataset's Analysis for better viewing of the results.
+
+![image](https://github.com/user-attachments/assets/a8c70964-b1d7-43ff-8356-0a98608a47e0)
+
  
 Figure E - Data Cleansed into new columns.
 
+![image](https://github.com/user-attachments/assets/66c3349c-3008-4f39-ab67-ff468cf3bf4f)
+
+
  
 Figure F - Data's Downloading
+
+![image](https://github.com/user-attachments/assets/8f76757e-dea2-4d00-96d0-d17e11b6289c)
+
  
 Figure G - New Data Cleansed is being Implemented!
 2-	Descriptive Statistics:
+
+![image](https://github.com/user-attachments/assets/5ade541f-3003-4603-93fa-152185655ec7)
+
  
 Figure H - Statistical work showcases a deep impact in the first class over second and third class and a superiority in Woman being saved while Children and Teens were being saved first, as well, as people with good income.\
 
@@ -416,24 +438,44 @@ Figure H - Statistical work showcases a deep impact in the first class over seco
 
 3-	Data Visualization:
 
- 
+![image](https://github.com/user-attachments/assets/10f1f29f-25e1-47c3-adf4-f789a1b77112)
+
 Figure I - Age Distribution with people inside the Titanic over 60 or 60 years old as the most prominent number. The average age is in thirties and forties.
+
+
+![image](https://github.com/user-attachments/assets/ce61c4c7-9478-4558-b6ec-4ae704c38aba)
 
  
 Figure J - Fare Distribution
+
+![image](https://github.com/user-attachments/assets/601dd6e2-c99a-49db-a4b9-d56220c21603)
+
  
 Figure K - Women over Men in Survivors shows predominantly.
+
+![image](https://github.com/user-attachments/assets/05b29dd3-07d6-4980-bd29-a54be49c7ba9)
+
  
 Figure L - First Class had the most saved survivors among all in the TITANIC as rate.
 
+![image](https://github.com/user-attachments/assets/db7ffc37-4962-4035-b43d-adb659602dbd)
 
  
 Figure M - Further Correlation among the Siblings, Spouses, Parents and Children among the saved people which would be influential for the majority saved.
 4-	Survival Analysis:
+
+![image](https://github.com/user-attachments/assets/aff777ef-8abe-49e7-9bb5-7425e8be91d7)
+
  
 Figure N - Survival Graphics from Rates where Woman Dominates Man in Survival on Titanic's Accident.
+
+![image](https://github.com/user-attachments/assets/6f1c1831-e2d2-4f01-bff9-c7e5accab37d)
+
  
 Figure O - Survival Rate shows higher in members of First Class versus Second and Third Class.
+
+![image](https://github.com/user-attachments/assets/187a33ac-1224-44ba-9dec-442ea9f31166)
+
  
 Figure P - Among people saved Children, Teenagers and Young Adults were priorities due to their lifespan.
 
