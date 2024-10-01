@@ -518,7 +518,7 @@ Figure P - Among people saved Children, Teenagers and Young Adults were prioriti
 <H1>Project Number Four about USA's Finances.</H1>
 <H3>The project was conducted in a practice sample.</H3>
 
-
+The outcome among USA's financial's and departments concerned with the economics have shown a massive fluctuation among the crucial growth for the 
 
 
 
