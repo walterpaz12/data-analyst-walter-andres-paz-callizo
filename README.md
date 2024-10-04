@@ -518,7 +518,25 @@ Figure P - Among people saved Children, Teenagers and Young Adults were prioriti
 <H1>Project Number Four about USA's Finances.</H1>
 <H3>The project was conducted in a practice sample.</H3>
 
-The outcome among USA's financial's and departments concerned with the economics have shown a massive fluctuation among the crucial growth for the 
+The outcome among USA's financial's and departments concerned with the economics have shown a massive fluctuation among the crucial growth for the economy in one of the world's most important countries for the entire stock market. In this case we will be having a testing for the Gold's Prices based on some of the features. 
+
+![image](https://github.com/user-attachments/assets/c0504dda-297a-4776-9e67-43630651e61f)
+
+Figure A - Download the first Exploration on Gold's Price.
+
+![image](https://github.com/user-attachments/assets/a937df10-d014-49f9-a0f2-980c7260be9d)
+
+Figure B - Download the second Exploration on Gold's Price.
+
+![image](https://github.com/user-attachments/assets/aa5eeaff-e16c-4d7c-a895-83b0bdea7719)
+
+Figure C - Download the third Exploration on Gold's Price.
+
+![image](https://github.com/user-attachments/assets/5908b2b3-db3e-4cbe-a1d9-eb5fa962dcfa)
+
+Figure D - Download the fourth Exploration on Gold's Price.
+
+
 
 
 
