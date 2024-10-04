@@ -1,5 +1,5 @@
 # data-analyst-walter-andres-paz-callizo
-<H1>Project Number One about City of Vancouver's Analysis for the development of an AWS Model in Data Management.</H1>
+<H1>Project I about City of Vancouver's Analysis for the development of an AWS Model in Data Management.</H1>
 <H3>The project was conducted in a group at University Canada West (UCW).</H3>
 
 DAP Design and Implementation (Business License - Walter)
@@ -246,7 +246,7 @@ Figure PP - Data Monthly Estimate around $90.00 USD Dollars by Walter Andres Paz
 
 
 
-<H1>Project Number Two about Human Resources Office at University Canada West (UCW) for Health and Organizational Safety (HOS).</H1>
+<H1>Project II about Human Resources Office at University Canada West (UCW) for Health and Organizational Safety (HOS).</H1>
 <H3>The project was conducted in a group at University Canada West (UCW).</H3>
 
 First step was to create an Amazon Web Service's (AWS) planning for the data's management of the considerations for University Canada West's Department on Human Resources (HRO) for the Health and Organizational Safety (HOS). However, the construction of a database within the services offered by the well-known platform.
@@ -331,7 +331,7 @@ Sage Maker helps us manage domains while IAM shares whom to use or view content 
 
 ![image](https://github.com/user-attachments/assets/73641b6f-17ea-4b9d-a4cb-cf42ac2fc6ab)
 
-<H1>Project Number Three about the Wrecking of the TITANIC.</H1>
+<H1>Project III about the Wrecking of the TITANIC.</H1>
 <H3>The project was conducted individually at University Canada West (UCW).</H3>
 
 <h3>Executive Summary</h3>
@@ -515,7 +515,7 @@ Figure P - Among people saved Children, Teenagers and Young Adults were prioriti
 
 
 
-<H1>Project Number Four about USA's Finances.</H1>
+<H1>Project IV about USA's Finances.</H1>
 <H3>The project was conducted in a practice sample.</H3>
 
 The outcome among USA's financial's and departments concerned with the economics have shown a massive fluctuation among the crucial growth for the economy in one of the world's most important countries for the entire stock market. In this case we will be having a testing for the Gold's Prices based on some of the features. 
@@ -537,7 +537,7 @@ Figure C - Download the third Exploration on Gold's Price.
 Figure D - Download the fourth Exploration on Gold's Price.
 
 
-
+Some of the Gold's Predictions showcase a noticeable uprise among the 
 
 
 
