@@ -537,7 +537,11 @@ Figure C - Download the third Exploration on Gold's Price.
 Figure D - Download the fourth Exploration on Gold's Price.
 
 
-Some of the Gold's Predictions showcase a noticeable uprise among the 
+Some of the Gold's Predictions showcase a noticeable uprise among the years and the oscilliaitons after the analysis of an ongrowing business model for trading.
+
+<H1>Project V about SQL Mumbai Incident's Analysis in Data Management.</H1>
+<H3>The project was conducted individually.</H3>
+
 
 
 
