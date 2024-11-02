@@ -847,6 +847,10 @@ fig = px.bar(
 fig.show()
 </p>
 
+![image](https://github.com/user-attachments/assets/da322f4e-fb3d-4ebd-9704-b5118b684388)
+
+Figure A - Loan Intents for customer's Sectors
+
 
 
 
