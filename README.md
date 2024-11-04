@@ -539,6 +539,8 @@ Figure D - Download the fourth Exploration on Gold's Price.
 
 Some of the Gold's Predictions showcase a noticeable uprise among the years and the oscilliaitons after the analysis of an ongrowing business model for trading.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <H1>Project about the "Loan Dataset's and the Visualization for any future's changes".</H1>
 
 <H3>The project was conducted individually.</H3>
@@ -850,6 +852,9 @@ fig.show()
 ![image](https://github.com/user-attachments/assets/da322f4e-fb3d-4ebd-9704-b5118b684388)
 
 Figure A - Loan Intents for customer's Sectors
+
+### Attempt for a Coding to Learn the Process of Valuation with Algorithms such as the Decision Tree Descisions manager and predictions.
+
 
 
 
