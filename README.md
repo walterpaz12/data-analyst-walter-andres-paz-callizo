@@ -618,10 +618,13 @@ y= data_platform ['loan_amnt'] </p>
 
 Figure A - Loan Intents for customer's Sectors
 
-<b> Attempt for a Coding to Learn the Process of Valuation with Algorithms such as the Decision Tree Descisions manager and predictions.<b/>
+Attempt for a Coding to Learn the Process of Valuation with Algorithms such as the Decision Tree Descisions manager and predictions.
 
-First of all, it essential to explore the entire data set for the constant analysis of reporting the bigger possibilities for the identification of any upcoming issues or changes where the banking's loans is one part of the process the checking for the ideal management of the data inside of the loan amaounts and the purposes for the investment from the bank into the custommer's pocket. However, with the presecen of quite a similar case to real-life modeled inside the key involvement of a Random Forest Tree-Regressor after considering this algorithm as the best model-type for the predictions and classification of the Loan Distribution after the "Confusion Matrix" generated and the identification of Truth Tables among the variables scanned in the study cases analysis. Into the consideration of the 
+First of all, it essential to explore the entire data set for the constant analysis of reporting the bigger possibilities for the identification of any upcoming issues or changes where the banking's loans is one part of the process the checking for the ideal management of the data inside of the loan amaounts and the purposes for the investment from the bank into the custommer's pocket. However, with the presecen of quite a similar case to real-life modeled inside the key involvement of a Random Forest Tree-Regressor after considering this algorithm as the best model-type for the predictions and classification of the Loan Distribution after the "Confusion Matrix" generated and the identification of Truth Tables among the variables scanned in the study cases analysis. Into the consideration of the values inside of the behaviour from the business models within the 2222 loans approved by the bank after instructions of analysis the figures for the optimal considerations.
 
+![image](https://github.com/user-attachments/assets/6d911ab4-da6f-42bf-b409-6b6a4c184f59)
+
+Figure B - Loan Approval 
 
 
 
