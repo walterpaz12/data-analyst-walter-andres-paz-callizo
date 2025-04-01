@@ -345,10 +345,15 @@ Sage Maker helps us manage domains while IAM shares whom to use or view content 
 
 
 <h3>II. Instructions</h3>
+
 Project Description: Exploratory Data Analysis (EDA) on Titanic Dataset
+
 Project Title: Surviving the Titanic: An Exploratory Data Analysis
+
 Objective: The primary goal of this project is to perform an exploratory data analysis (EDA) on the Titanic dataset to uncover patterns, trends, and insights related to passenger survival. By analyzing various features such as age, gender, class, and fare, we aim to understand the factors that influenced the likelihood of survival during the Titanic disaster.
+
 Dataset: The Titanic dataset consists of passenger information from the ill-fated voyage of the RMS Titanic, including details such as:
+
 •	Passenger ID: Unique identifier for each passenger
 •	Survived: Survival status (0 = No, 1 = Yes)
 •	Pclass: Passenger class (1st, 2nd, 3rd)
@@ -360,36 +365,56 @@ Dataset: The Titanic dataset consists of passenger information from the ill-fate
 •	Ticket: Ticket number
 •	Fare: Fare paid by the passenger
 •	Embarked: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
+
 Methodology:
+
 1-	Data Collection and Preparation:
+
 o	Load the Titanic dataset using Python libraries like Pandas.
 o	Perform initial data cleaning, which includes handling missing values, correcting data types, and renaming columns for clarity.
+
 2-	Descriptive Statistics:
+
 o	Generate summary statistics (mean, median, mode) for numerical features (like Age and Fare) and frequency distributions for categorical features (like Pclass and Sex).
+
 3-	Data Visualization:
+
 o	Create visualizations to illustrate key insights:
+
 	Histograms and Boxplots: Analyze the distribution of continuous variables like Age and Fare.
 	Bar Charts: Showcase survival rates across different categories (e.g., Sex, Pclass).
 	Heatmaps: Visualize correlations between numerical variables.
+
 4-	Survival Analysis:
+
 o	Compare survival rates:
+
 	By gender: Determine if there is a significant difference in survival rates between male and female passengers.
 	By class: Analyze how passenger class affected survival chances.
 	By age group: Create age bins to assess survival across different age demographics.
+
 5-	Insights and Findings:
+
 o	Summarize the findings based on data visualizations and statistical analyses, highlighting notable trends and patterns (e.g., women and children had higher survival rates, first-class passengers had a significant survival advantage).
+
 6-	Conclusion:
+
 o	Discuss the implications of the findings and suggest further analyses or data-driven decisions that could be explored, such as building predictive models to classify survival based on passenger features.
+
 Tools and Technologies:
+
 •	Python (Pandas, NumPy, Matplotlib, Seaborn)
 •	Jupyter Notebook for interactive data exploration
 •	Any additional data visualization tools like Tableau or Power BI (optional)
+
 Deliverables:
+
 •	A comprehensive Jupyter Notebook containing all steps of the analysis, including code, visualizations, and narrative explanations of findings.
 •	A presentation summarizing key insights and visualizations for stakeholders or peers.
 This EDA project not only demonstrates your analytical and programming skills but also highlights your ability to derive meaningful insights from data, making it a valuable addition to your data analyst portfolio.
 
 <h3>III.Procedure and Analysis</h3>
+
 1-	Data Collection and Preparation: 
 
 
@@ -485,6 +510,7 @@ Figure P - Among people saved Children, Teenagers and Young Adults were prioriti
 
 
 <h3>5-	Insights and Findings:</h3>
+
     Once the Ship of the Titanic crashed against the iceberg which has some few survivors mainly in First Class as they were the first ones to leave the debris among a whole number of Children with 50 percentage of them saved, and other categories going from Teenagers to Young Adults, Adults and just a few percentages in Senior Adults. However, most Survivors are women due to humanity and its preservation before focusing on male survivor’s. Nonetheless, there was a rise in some of the travelers over 60 years old due to the price of being in the World's most luxury ship in the start of the 1900's for human history.
 
 
@@ -497,14 +523,6 @@ Figure P - Among people saved Children, Teenagers and Young Adults were prioriti
 
 <h3>IV. Conclusion</h3>
   The intriguing survival patterns among Titanic passengers fell into three categories: class, gender, and age group. The survival rate of female passengers within a single class was higher than that of male passengers. First class passengers had a significantly higher chance of being saved than their second- or third-class counterparts due to an economic turmoil inside of the boat where there was clear priority for survival. Age was also a factor, with younger persons (including children) having better opportunities. These findings provide historical analysis on how various demographic groups impacted the course of the catastrophe seen in the sinking of the Titanic (Ici Explora, 2022). 
-
-
-
-
-
-
-
-
 
 
 <h3>References</h3>
@@ -620,7 +638,11 @@ Figure A - Loan Intents for customer's Sectors
 
 Attempt for a Coding to Learn the Process of Valuation with Algorithms such as the Decision Tree Descisions manager and predictions.
 
-First of all, it essential to explore the entire data set for the constant analysis of reporting the bigger possibilities for the identification of any upcoming issues or changes where the banking's loans is one part of the process the checking for the ideal management of the data inside of the loan amaounts and the purposes for the investment from the bank into the custommer's pocket. However, with the presecen of quite a similar case to real-life modeled inside the key involvement of a Random Forest Tree-Regressor after considering this algorithm as the best model-type for the predictions and classification of the Loan Distribution after the "Confusion Matrix" generated and the identification of Truth Tables among the variables scanned in the study cases analysis. Into the consideration of the values inside of the behaviour from the business models within the 2222 loans approved by the bank after instructions of analysis the figures for the optimal considerations.
+First of all, it essential to explore the entire data set for the constant analysis of reporting the bigger possibilities for the identification of any upcoming issues or changes where the banking's loans is one part of the process the checking for the ideal management of the data inside of the loan amaounts and the purposes for the investment from the bank into the customer's pocket.
+
+However, with the presecen of quite a similar case to real-life modeled inside the key involvement of a Random Forest Tree-Regressor after considering this algorithm as the best model-type for the predictions and classification of the Loan Distribution after the "Confusion Matrix" generated and the identification of Truth Tables among the variables scanned in the study cases analysis.
+
+Into the consideration of the values inside of the behaviour from the business models within the 2222 loans approved by the bank after instructions of analysis the figures for the optimal considerations.
 
 ![image](https://github.com/user-attachments/assets/6d911ab4-da6f-42bf-b409-6b6a4c184f59)
 
