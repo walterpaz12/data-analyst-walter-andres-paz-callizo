@@ -65,69 +65,10 @@ Data loading/exploration, feature/target definition, initial visualization, atte
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-name: Auto Embed Issue Images
+<!-- AUTO-IMAGES-START -->
+(Images will be inserted here)
+<!-- AUTO-IMAGES-END -->
 
-on:
-  schedule:
-    - cron: '0 * * * *' # Runs every hour
-  workflow_dispatch:     # Allows manual run
-
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout Repo
-        uses: actions/checkout@v3
-
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
-
-      - name: Install Python dependencies
-        run: pip install PyGithub markdown
-
-      - name: Extract Images and Update README
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          REPO_NAME: ${{ github.repository }}
-        run: |
-          python <<EOF
-          from github import Github
-          import os
-          import re
-
-          g = Github(os.environ['GITHUB_TOKEN'])
-          repo = g.get_repo(os.environ['REPO_NAME'])
-          issues = repo.get_issues(state='all')
-          
-          image_md = "## 🖼️ USA Financial System Graphics\n\n"
-          for issue in issues:
-              matches = re.findall(r'!\[.*?\]\((.*?)\)', issue.body or "")
-              for img_url in matches:
-                  image_md += f"![Image]({img_url})\n\n"
-
-          # Replace the section between two markers in README
-          readme_path = "README.md"
-          with open(readme_path, "r", encoding="utf-8") as f:
-              content = f.read()
-
-          new_section = f"<!-- AUTO-IMAGES-START -->\n{image_md}<!-- AUTO-IMAGES-END -->"
-          content = re.sub(
-              r'<!-- AUTO-IMAGES-START -->(.|\n)*?<!-- AUTO-IMAGES-END -->',
-              new_section,
-              content
-          )
-
-          with open(readme_path, "w", encoding="utf-8") as f:
-              f.write(content)
-          EOF
-
-      - name: Commit and Push if Changes
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
           git diff --quiet && echo "No changes" || git commit -m "🖼️ Auto-update images from Issues"
           git push
