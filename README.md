@@ -14,6 +14,11 @@ Data question formulation, data discovery, S3 storage design, initial data clean
 ### Key Findings
 Analysis of business license trends (1997-2024) and initial rate calculations.
 
+
+
+
+
+
 ## Project II: UCW Human Resources Office - Health and Organizational Safety (HOS) Data Management
 
 ### Project Overview
