@@ -9,6 +9,10 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write   # Required permission to write changes to the repository contents
+      issues: read      # Permission to read issues
+
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v3
@@ -53,5 +57,9 @@ jobs:
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.nore
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet || git commit -m "🖼️ Auto-update images from Issues"
+          git pull --rebase origin main  # Fetch the latest changes before pushing
+          git push origin HEAD:main
 
