@@ -14,11 +14,6 @@ Data question formulation, data discovery, S3 storage design, initial data clean
 ### Key Findings
 Analysis of business license trends (1997-2024) and initial rate calculations.
 
-
-
-
-
-
 ## Project II: UCW Human Resources Office - Health and Organizational Safety (HOS) Data Management
 
 ### Project Overview
@@ -67,4 +62,40 @@ Python (Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, TensorFlow, SciPy, sta
 Data loading/exploration, feature/target definition, initial visualization, attempted model building (Linear Regression, Decision Trees), consideration of RandomForestRegressor.
 
 ## [Link to your GitHub Repository](https://walterpaz12.github.io/data-analyst-walter-andres-paz-callizo/)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+name: Auto Image Commit
+
+on:
+  push:
+    paths:
+      - images/**  # Watch the images folder
+  schedule:
+    - cron: '*/5 * * * *'  # Runs every 5 minutes
+
+jobs:
+  auto-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+
+    - name: Set up Git
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+    - name: Check for uncommitted changes
+      id: changes
+      run: |
+        git add images/
+        git diff --cached --quiet || echo "changed=true" >> $GITHUB_OUTPUT
+
+    - name: Commit and push if changes
+      if: steps.changes.outputs.changed == 'true'
+      run: |
+        git commit -m "Auto-commit new image(s) 🖼️"
+        git push
 
