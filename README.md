@@ -65,37 +65,69 @@ Data loading/exploration, feature/target definition, initial visualization, atte
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-name: Auto Image Commit
+name: Auto Embed Issue Images
 
 on:
-  push:
-    paths:
-      - images/**  # Watch the images folder
   schedule:
-    - cron: '*/5 * * * *'  # Runs every 5 minutes
+    - cron: '0 * * * *' # Runs every hour
+  workflow_dispatch:     # Allows manual run
 
 jobs:
-  auto-commit:
+  update-readme:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repo
-      uses: actions/checkout@v3
+      - name: Checkout Repo
+        uses: actions/checkout@v3
 
-    - name: Set up Git
-      run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
 
-    - name: Check for uncommitted changes
-      id: changes
-      run: |
-        git add images/
-        git diff --cached --quiet || echo "changed=true" >> $GITHUB_OUTPUT
+      - name: Install Python dependencies
+        run: pip install PyGithub markdown
 
-    - name: Commit and push if changes
-      if: steps.changes.outputs.changed == 'true'
-      run: |
-        git commit -m "Auto-commit new image(s) 🖼️"
-        git push
+      - name: Extract Images and Update README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO_NAME: ${{ github.repository }}
+        run: |
+          python <<EOF
+          from github import Github
+          import os
+          import re
 
+          g = Github(os.environ['GITHUB_TOKEN'])
+          repo = g.get_repo(os.environ['REPO_NAME'])
+          issues = repo.get_issues(state='all')
+          
+          image_md = "## 🖼️ USA Financial System Graphics\n\n"
+          for issue in issues:
+              matches = re.findall(r'!\[.*?\]\((.*?)\)', issue.body or "")
+              for img_url in matches:
+                  image_md += f"![Image]({img_url})\n\n"
+
+          # Replace the section between two markers in README
+          readme_path = "README.md"
+          with open(readme_path, "r", encoding="utf-8") as f:
+              content = f.read()
+
+          new_section = f"<!-- AUTO-IMAGES-START -->\n{image_md}<!-- AUTO-IMAGES-END -->"
+          content = re.sub(
+              r'<!-- AUTO-IMAGES-START -->(.|\n)*?<!-- AUTO-IMAGES-END -->',
+              new_section,
+              content
+          )
+
+          with open(readme_path, "w", encoding="utf-8") as f:
+              f.write(content)
+          EOF
+
+      - name: Commit and Push if Changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet && echo "No changes" || git commit -m "🖼️ Auto-update images from Issues"
+          git push
