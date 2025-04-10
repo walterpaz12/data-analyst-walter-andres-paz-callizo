@@ -23,13 +23,13 @@ jobs:
 
       - name: Extract Images and Update README
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PERSONAL_ACCESS_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}  # Use the personal token stored in Secrets
           REPO_NAME: ${{ github.repository }}
         run: |
           python <<EOF
           from github import Github
           import os, re
-          g = Github(os.environ['GITHUB_TOKEN'])
+          g = Github(os.environ['PERSONAL_ACCESS_TOKEN'])  # Use personal token here
           repo = g.get_repo(os.environ['REPO_NAME'])
           issues = repo.get_issues(state='all')
           image_md = "## 🖼️ USA Financial System Graphics\n\n"
@@ -54,7 +54,6 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
           git add README.md
           git diff --quiet || git commit -m "🖼️ Auto-update images from Issues"
           git push
