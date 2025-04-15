@@ -63,12 +63,4 @@ Data loading/exploration, feature/target definition, initial visualization, atte
 
 ## [Link to your GitHub Repository](https://walterpaz12.github.io/data-analyst-walter-andres-paz-callizo/)
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<!-- AUTO-IMAGES-START -->
-(Images will be inserted here)
-<!-- AUTO-IMAGES-END -->
-
-          git add README.md
-          git diff --quiet && echo "No changes" || git commit -m "🖼️ Auto-update images from Issues"
-          git push
