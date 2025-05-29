@@ -14,42 +14,6 @@ Data question formulation, data discovery, S3 storage design, initial data clean
 ### Key Findings
 Analysis of business license trends (1997-2024) and initial rate calculations.
 
-![image](https://github.com/user-attachments/assets/0313858f-de3c-4206-9b48-e658b57be479)
-
-![image](https://github.com/user-attachments/assets/2b4ffec5-1e2f-4724-9475-9f4b5a797c50)
-
-![image](https://github.com/user-attachments/assets/ed6f0adf-c6f2-4c95-bd0b-c8578a1fe161)
-
-![image](https://github.com/user-attachments/assets/eff9da72-3798-4d75-9e13-074f079394dc)
-
-![image](https://github.com/user-attachments/assets/bf66bc00-6a1d-4c85-b0a5-ef0769e1b494)
-
-![image](https://github.com/user-attachments/assets/2652fa42-08d5-468e-a293-a1654168c011)
-
-![image](https://github.com/user-attachments/assets/57c9cbc8-a1ee-459c-977c-128871cd38ba)
-
-![image](https://github.com/user-attachments/assets/6ceabaa0-3db4-4670-8d43-00acb3f527eb)
-
-![image](https://github.com/user-attachments/assets/9ef94b69-1ab2-472e-8c8c-9c91bd5b0c3c)
-
-![image](https://github.com/user-attachments/assets/52aa3b21-d2db-4c63-8a6f-64cef113a370)
-
-![image](https://github.com/user-attachments/assets/f8fc72f7-a4c9-4ff0-b4cf-38d744033dc4)
-
-![image](https://github.com/user-attachments/assets/79f00975-6e77-4203-8085-979954c023e6)
-
-![image](https://github.com/user-attachments/assets/9f8106ee-2166-4929-a1c4-0c8475523849)
-
-![image](https://github.com/user-attachments/assets/ed6a6877-fbcb-4aac-b5a8-0f23821be91a)
-
-![image](https://github.com/user-attachments/assets/6aa67ceb-815a-4e99-a849-d587af45f64f)
-
-![image](https://github.com/user-attachments/assets/13961227-565e-4d3d-a858-2db31abbf78e)
-
-![image](https://github.com/user-attachments/assets/6e266863-5346-4382-9035-01d10749a818
-
-
-
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
