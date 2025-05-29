@@ -46,6 +46,11 @@ Analysis of business license trends (1997-2024) and initial rate calculations.
 
 ![image](https://github.com/user-attachments/assets/13961227-565e-4d3d-a858-2db31abbf78e)
 
+![image](https://github.com/user-attachments/assets/6e266863-5346-4382-9035-01d10749a818
+
+
+
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Project II: UCW Human Resources Office - Health and Organizational Safety (HOS) Data Management
