@@ -70,6 +70,5 @@ Python (Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, TensorFlow, SciPy, sta
 ### Key Contributions
 Data loading/exploration, feature/target definition, initial visualization, attempted model building (Linear Regression, Decision Trees), consideration of RandomForestRegressor.
 
-## [Link to your GitHub Repository](https://walterpaz12.github.io/data-analyst-walter-andres-paz-callizo/)
 
 
